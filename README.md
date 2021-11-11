@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thatwolfyouknow
 - 👀 I’m interested in learning different career paths for coding.
-- 🌱 I’m currently learning Java Script
+- 🌱 I’m currently learning HTML
 - 💞️ Total noob! =)
 - 📫 How to reach me: redmaple83@gmail.com
 
